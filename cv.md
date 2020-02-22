@@ -10,6 +10,12 @@
 Extremely motivated to constantly develop my skills and grow professionally.
 
 ## Skills:
+* Exceptional communication and networking skills
+* Successful working in a team environment, as well as independently
+* The ability to work under pressure and multi-task
+* Frontend (HTML, CSS3, JS, jQuery, Bootstrap)
+* Backend (PHP, mySQL, SOAP api, websocket)
+* DevOps (Linux, LAN, VPN, Mikrotik, NAS, VMware, nginx, backup)
 
 ## Experience:
 ### SFEC
