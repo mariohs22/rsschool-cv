@@ -7,7 +7,7 @@
 * LinkedIn: https://linkedin.com/in/burakouski
 
 ## Summary:
-Extremely motivated to constantly develop my skills and grow professionally.
+- Extremely motivated to constantly develop my skills and grow professionally.
 
 ## Skills:
 * Exceptional communication and networking skills
@@ -34,6 +34,7 @@ Extremely motivated to constantly develop my skills and grow professionally.
 - B2B (SOAP api.merlion.com)
 
 ## Education:
+- Gomel state medical university, 2000 - 2006
 
 ## English:
-A2 level
+- A2 level
