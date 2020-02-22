@@ -3,8 +3,8 @@
 ## Contact info:
 * 1880118@gmail.com
 * +375 29 188 01 18
-* GitHub: https://github.com/mariohs22
-* LinkedIn: https://linkedin.com/in/burakouski
+* GitHub: [https://github.com/mariohs22](https://github.com/mariohs22)
+* LinkedIn: [https://linkedin.com/in/burakouski](https://linkedin.com/in/burakouski)
 
 ## Summary:
 - Extremely motivated to constantly develop my skills and grow professionally.
