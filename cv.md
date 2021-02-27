@@ -15,7 +15,7 @@
 * The ability to work under pressure and multi-task
 * Frontend (HTML, CSS3, JS, jQuery, Bootstrap)
 * Backend (PHP, mySQL, SOAP api, websocket)
-* DevOps (Linux, LAN, VPN, Mikrotik, NAS, VMware, nginx, backup)
+* DevOps (Linux, LAN, Mikrotik, NAS, VMware, nginx)
 
 ## Experience:
 ### SFEC
@@ -30,7 +30,7 @@
 ### COMPUTELLA.BY
 - 2009 - 2015
 - Frontend
-- Backend (PHP, shopscript, pdf and xls generation)
+- Backend (PHP, shopscript)
 - B2B (SOAP api.merlion.com)
 
 ## Education:
